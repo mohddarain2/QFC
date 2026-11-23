@@ -1119,7 +1119,8 @@
             border-radius: 999px;
             font: 700 15px Inter, system-ui, sans-serif;
             animation: pulse 2.2s infinite;
-            box-shadow: 0 6px 16px rgba(0, 0, 0, .2)
+            box-shadow: 0 6px 16px rgba(0, 0, 0, .2);
+            margin-bottom:60px
         }
 
         .wafab span {
